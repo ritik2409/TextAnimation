@@ -1,6 +1,6 @@
 # TextAnimation
 [![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-17%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+[![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 
 A library to animate text either Character by character transition or word by word transition.
 
@@ -49,7 +49,7 @@ textAnimation.animateText("Whatever text you like comes here!", TextAnimation.Wo
 
 Character by character transition
 
-<img src="char_wise.gif" height = "416" width = "720" />
+<img src="https://gfycat.com/DistantShyDartfrog" />(https://gfycat.com/DistantShyDartfrog)
 
 
 
