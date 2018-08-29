@@ -47,6 +47,10 @@ textAnimation.animateText("Whatever text you like comes here!", TextAnimation.Wo
 
 ### Sample
 
+Character by character transition
+
+<img src="char_wise.gif" height = "416" width = "720" />
+
 
 
 
