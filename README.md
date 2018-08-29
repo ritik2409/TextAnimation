@@ -47,9 +47,13 @@ textAnimation.animateText("Whatever text you like comes here!", TextAnimation.Wo
 
 ### Sample
 
-Character by character transition
+Word by Word transition
 
 <img src="https://gfycat.com/DistantShyDartfrog" />(https://gfycat.com/DistantShyDartfrog)
+
+Character by character transiiton
+
+<img src = "https://gfycat.com/GoodWhisperedGiantschnauzer" />
 
 
 
