@@ -53,7 +53,7 @@ Word by Word transition
 
 Character by character transiiton
 
-<img src = "https://gfycat.com/GoodWhisperedGiantschnauzer" />
+<img src = "https://gfycat.com/GoodWhisperedGiantschnauzer" />(https://gfycat.com/GoodWhisperedGiantschnauzer)
 
 
 
