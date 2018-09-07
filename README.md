@@ -49,7 +49,7 @@ textAnimation.animateText("Whatever text you like comes here!", TextAnimation.Wo
 
 Word by Word transition
 
-<img src="https://gfycat.com/DistantShyDartfrog" />(https://gfycat.com/DistantShyDartfrog)
+<a href="https://imgflip.com/gif/2hfids"><img src="https://i.imgflip.com/2hfids.gif" title="made at imgflip.com"/></a>
 
 Character by character transiiton
 
